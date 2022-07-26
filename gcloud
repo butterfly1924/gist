@@ -1,0 +1,4 @@
+bardolphshampine77769@cloudshell:~$ cat .tmux.conf
+bind-key b set-option status
+set -g status on
+set -g mouse
